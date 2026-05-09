@@ -14,7 +14,7 @@
         {{ if (.InSection ($.Site.GetPage "projects")) }}
           Source code {{ readFile "assets/icons/arrow.svg" | safeHTML }}
         {{ else }}
-          Read this blog post {{ readFile "assets/icons/arrow.svg" | safeHTML }}
+          Read post {{ readFile "assets/icons/arrow.svg" | safeHTML }}
         {{ end }}
       </a>
       {{ with (and (.InSection ($.Site.GetPage "projects")) .Params.demo) }}

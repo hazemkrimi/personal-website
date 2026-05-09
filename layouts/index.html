@@ -4,19 +4,8 @@
     <link rel="stylesheet" href="{{ $styles.Permalink }}" />
 {{ end }}
 {{ define "main" }}
-    <section id="intro">
-        <div>
-            <h1>Hi! I am <span>Hazem</span>, a software engineer.</h1>
-            <p>I have over three years of experience building web and cross platform mobile applications in E-Commerce, Fintech, Auditing and Compliance.</p>
-            <div id="action-buttons">
-                <a href="{{ urls.JoinPath .Site.BaseURL "blog" }}">Blog</a>
-            </div>
-        </div>
-    </section>
-
     <section id="about">
         <h2>About</h2>
-        <p>Tinkering is what got me to where I am now as a professional software engineer.</p>
         {{ partial "about-card.html" . }}
     </section>
 

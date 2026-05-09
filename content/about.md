@@ -7,7 +7,7 @@ date: 2023-10-18
 
 ## About
 
-Hi again! So, you want to know more about me! We'll go through how I got into tech, my education and my career and some other things you might find interesting. Hopefully you enjoy reading about me and I am looking forward to chat!
+Hi there! So, you want to know more about me! We'll go through how I got into tech, my education and my career and some other things you might find interesting. Hopefully you enjoy reading about me and I am looking forward to chat!
 
 ### How I got into Computer Science and Software Engineering
 
@@ -29,7 +29,9 @@ Then I started working remotely in a company based in the UK called [Cielo Costa
 
 Afterwards, I started working at [Finteum](https://finteum.com) which is creating a global financial market for intraday liquidity, enabling interbank lending for hours at a time.
 
-Currently, I am working at [ProveAI](https://proveai.com) which is creating a platform for AI management that helps organizations centralize and manage their AI models while maintaining strict oversight of data access and usage.
+Then I worked at a company called [ProveAI](https://proveai.com) for less than a year which is creating a platform for LLM observability that helps organizations centralize and manage their models while maintaining strict oversight of data access and usage while providing insights and recommendations on a model's performance.
+
+In 2023, I co-founded Crimson Quirks and I provide general IT services alongside custom software development mainly as a contractor with other companies like Fineum and ProveAI.
 
 ### My Hobbies
 

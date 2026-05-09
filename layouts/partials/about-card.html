@@ -1,18 +1,19 @@
-{{ $cv := resources.Get "hazem-krimi.pdf" }}
+{{ $cv := resources.Get "curriculum-vitae.pdf" }}
 {{ $faceImage := resources.Get "images/borded-face.webp" }}
 
 <div id="about-card">
   <img src="{{ $faceImage.Permalink }}" alt="Hazem Krimi's face" />
   <div>
     <p>
-      I am a software engineer with an extensive experience building AI-powered and user-friendly web and cross-platform mobile applications using various technologies including React, React Native, TypeScript, Golang, Rust, Kotlin and Scala to name a few.
+      I am a software engineer with an extensive experience building web and cross‑platform mobile applications with focus on optimal performance and
+delightful user experience using various technologies including JavaScript, TypeScript, Python, C/C++, Go, and Kotlin.
     </p>
     <div id="links">
       <a href="{{ $cv.Permalink }}" target="_blank">
         Download CV
       </a>
       <a class="read-more" href="{{ urls.JoinPath .Site.BaseURL "about" }}">
-        Read more about me
+        Read further
       </a>
     </div>
   </div>
