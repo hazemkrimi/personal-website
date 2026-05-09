@@ -39,8 +39,8 @@ enableRobotsTXT = true
         url = '/blog'
         weight = 4
     [[menu.main]]
-        name = 'Resume'
-        url = '/hazem-krimi.pdf'
+        name = 'CV'
+        url = '/curriculum-vitae.pdf'
         weight = 5
 [[deployment.matchers]]
     pattern = "^.+\\.(js|css|svg|ttf)$"

@@ -1,7 +1,7 @@
 ---
 title: 'Touch Programming'
-description: 'Master touch typing with real code snippets from your favorite programming languages, powered by AI.'
-source: 'https://github.com/hazemKrimi/touch-programming'
+description: 'Master touch typing with real code snippets from your favorite programming languages, powered by LLMs.'
+source: 'https://github.com/hazemkrimi/touch-programming'
 demo: 'https://touch-programming.hazemkrimi.tech'
 date: 2025-02-28
 ---
