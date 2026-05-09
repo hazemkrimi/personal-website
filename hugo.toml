@@ -1,5 +1,5 @@
 baseURL = 'https://hazemkrimi.tech'
-locale = 'en'
+languageCode = 'en'
 title = 'Hazem Krimi'
 [pagination]
     pagerSize = 5
